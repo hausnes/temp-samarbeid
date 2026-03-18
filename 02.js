@@ -14,3 +14,6 @@ function iseven(number) {
   else if (number == 9) return false;
   else if (number == 10) return true;
 };
+
+
+//Fikser issuet.
